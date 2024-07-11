@@ -1,13 +1,7 @@
 ### Hi there 👋 I'm Jonah!
 <a href="https://www.linkedin.com/in/jonahfoong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="20" />
-<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" height="20" />
 
-Hi I'm Jonah, a researcher working at the Berlin Social Science Center. My work focuses broadly on understanding intergroup relations through survey and experimental methods. You can find more information on my projects [here](https://jonfoong.github.io/):  
-
-- 🔭 I also work on the R package <a href="https://github.com/jonfoong/Rinteract/"><img src="stickers/Rinteract.png" height="50"></a>
-- 🌱 I am currently learning 
-
+Hi I'm Jonah, a former pol sci researcher transitioning to data science. You can find more information on my projects [here](https://jonfoong.github.io/):  
 
 #### Languages and Tools:
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="20" /> 
