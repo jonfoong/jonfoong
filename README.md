@@ -9,11 +9,6 @@ Hi I'm Jonah, a former pol sci researcher transitioning to data science. You can
 #### Productivity tools:
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="20" /><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="20" /><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" height="20" /><img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="20" />
 
-
-![](https://github-readme-stats.vercel.app/api?username=jonfoong)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonfoong)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonfoong)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonfoong)
