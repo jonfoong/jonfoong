@@ -3,6 +3,8 @@
 
 Hi I'm Jonah, a former pol sci predoc transitioning to data science. In my research I use causal inference methods and randomized experiments to study social phenomena in developing/post-conflict regions. You can find more information on my academic projects [here](https://jonfoong.github.io/). 
 
+<!--I like most things data, particularly questions of causal inference and projects that have positive social impact. -->
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonfoong)
 
