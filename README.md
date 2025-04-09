@@ -7,7 +7,7 @@ I like most things data, particularly questions of methodology and projects that
 
 1. [Parleh-mate](https://parlehmate.onrender.com/) - Singapore parliament transparency project to scrape speech data and present insights on a Dash app.
 2. Probabilistic causal models, see [CausalQueries](https://github.com/integrated-inferences/CausalQueries)
-3. Productivity tools in MlOps (vector databases, datalakes, etc)
+3. Productivity tools in MLOps (vector databases, datalakes, etc)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonfoong)
